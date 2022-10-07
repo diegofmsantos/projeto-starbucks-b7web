@@ -1,2 +1,1 @@
-# projeto-starbucks-b7web
- Projeto do curso HTML e CSS B7Web
+# # Site feito durante o curso de HTML5 e CSS3 da plataforma B7Web do Professor Bonieky Lacerda.
